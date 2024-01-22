@@ -1,0 +1,1 @@
+This is config server related details
